@@ -1,0 +1,205 @@
+[
+  {
+    "id": "asdasdf34asda43242asd",
+    "recipeName": "Mercimek Çorbası",
+    "category": "Çorba",
+    "ingredients": [
+      "1 su bardağı kırmızı mercimek",
+      "1 adet soğan",
+      "1 adet havuç",
+      "1 adet patates",
+      "2 yemek kaşığı sıvı yağ",
+      "1 tatlı kaşığı tuz",
+      "Yarım çay kaşığı karabiber",
+      "1 tatlı kaşığı kırmızı biber",
+      "6 su bardağı su",
+      "1 limonun suyu"
+    ],
+    "instructions": [
+      "Mercimeği yıkayın ve süzün.",
+      "Soğanı doğrayın, havuç ve patatesi küçük küpler halinde kesin.",
+      "Sıvı yağı bir tencerede ısıtın, doğranmış soğanı ekleyin ve pembeleşene kadar kavurun.",
+      "Havuç ve patatesi ekleyip birkaç dakika daha kavurun.",
+      "Mercimeği ekleyin, suyu ekleyin ve kaynamaya bırakın.",
+      "Kaynadıktan sonra altını kısıp tencerenin kapağını kapatın, mercimekler iyice yumuşayana kadar pişirin.",
+      "Çorbayı blenderdan geçirin, tuz ve baharatları ekleyin.",
+      "Limon suyu ile servis yapın."
+    ],
+    "recipeTime": 30,
+    "servingSuggestion": "Mercimek çorbası, yanında taze ekmekle servis edilebilir.",
+    "image": "https://picsum.photos/501"
+  },
+  {
+    "id": "asdasda43242dsfgdfhg",
+    "recipeName": "Spagetti Bolognese",
+    "category": "Ana Yemek",
+    "ingredients": [
+      "400 gram spagetti",
+      "300 gram kıyma",
+      "1 adet soğan",
+      "2 diş sarımsak",
+      "1 kutu (400 gram) ezilmiş domates",
+      "2 yemek kaşığı domates salçası",
+      "1 tatlı kaşığı kurutulmuş kekik",
+      "1 tatlı kaşığı kurutulmuş fesleğen",
+      "Tuz ve karabiber, damak zevkine göre",
+      "Rendelenmiş parmesan peyniri garnitür için"
+    ],
+    "instructions": [
+      "Spagettiyi paket üzerindeki talimatlara göre haşlayın.",
+      "Bir tavada ince doğranmış soğanı ve ezilmiş sarımsağı yumuşayana kadar soteleyin.",
+      "Kıymayı ekleyin ve kahverengileşene kadar pişirin.",
+      "Ezilmiş domates, domates salçası, kekik, fesleğen, tuz ve karabiberi ekleyin.",
+      "Sosu 20-30 dakika kadar kaynatın, kıvam alana kadar pişirin.",
+      "Haşlanmış spagetti ile servis yapın, üzerine rendelenmiş parmesan peyniri serpin.",
+      "Spagetti Bolognese'nin tadını çıkarın!"
+    ],
+    "recipeTime": 45,
+    "servingSuggestion": "Spagetti Bolognese'yi sarımsaklı ekmek veya yeşillik salata ile servis edebilirsiniz.",
+    "image": "https://picsum.photos/500"
+  },
+  {
+    "id": "1a2b3c4d5e6f7g8h9i0j",
+    "recipeName": "Tavuklu Pilav",
+    "category": "Ana Yemek",
+    "ingredients": [
+      "2 su bardağı pirinç",
+      "400 gram tavuk göğsü",
+      "1 adet soğan",
+      "2 yemek kaşığı tereyağı",
+      "2 yemek kaşığı sıvı yağ",
+      "1 tatlı kaşığı tuz",
+      "Yarım çay kaşığı karabiber",
+      "4 su bardağı tavuk suyu veya su"
+    ],
+    "instructions": [
+      "Pirinci yıkayın ve süzün.",
+      "Tavuk göğsünü küp şeklinde doğrayın.",
+      "Soğanı doğrayın.",
+      "Bir tencerede tereyağını ve sıvı yağı eritin.",
+      "Soğanı ekleyip pembeleşene kadar kavurun.",
+      "Tavukları ekleyip suyunu salıp çekene kadar kavurun.",
+      "Pirinci ekleyip kavurmaya devam edin.",
+      "Tavuk suyunu veya suyu ekleyip kaynamaya bırakın.",
+      "Kaynadıktan sonra altını kısıp tencerenin kapağını kapatın, pirinçler pişene kadar pişirin.",
+      "Piştikten sonra altını kapatın ve pilavı demlenmeye bırakın."
+    ],
+    "recipeTime": 45,
+    "servingSuggestion": "Tavuklu pilav, yanında cacık veya turşu ile servis edilebilir.",
+    "image": "https://picsum.photos/502"
+  },
+  {
+    "id": "9k8j7h6g5f4d3s2a1q0",
+    "recipeName": "Ispanaklı Börek",
+    "category": "Aperatif",
+    "ingredients": [
+      "500 gram ıspanak",
+      "250 gram beyaz peynir",
+      "Yarım demet maydanoz",
+      "1 adet yumurta",
+      "1 çay bardağı sıvı yağ",
+      "1 su bardağı süt",
+      "1 adet limonun suyu",
+      "Tuz",
+      "Yarım çay kaşığı karabiber",
+      "Yarım paket milföy hamuru"
+    ],
+    "instructions": [
+      "Ispanakları yıkayın ve doğrayın.",
+      "Beyaz peyniri ezin.",
+      "Maydanozu ince ince doğrayın.",
+      "Bir kasede ıspanakları, beyaz peyniri, maydanozu, yumurtayı, sıvı yağı, sütü, limon suyunu, tuzu ve karabiberi karıştırın.",
+      "Milföy hamurlarını açın.",
+      "Her bir açılan hamurun üzerine ıspanaklı karışımdan koyun.",
+      "Hamuru rulo şeklinde sarın ve yağlı kağıt serili fırın tepsisine dizin.",
+      "Üzerine yumurta sarısı sürün.",
+      "Önceden ısıtılmış 180 derece fırında üzeri kızarana kadar pişirin."
+    ],
+    "recipeTime": 60,
+    "servingSuggestion": "Ispanaklı börek, sıcak olarak servis edilebilir.",
+    "image": "https://picsum.photos/503"
+  },
+  {
+    "id": "0q1w2e3r4t5y6u7i8o9p",
+    "recipeName": "Kıymalı Makarna",
+    "category": "Makarna",
+    "ingredients": [
+      "250 gram makarna",
+      "250 gram kıyma",
+      "1 adet soğan",
+      "2 diş sarımsak",
+      "1 adet domates",
+      "1 yemek kaşığı domates salçası",
+      "1 yemek kaşığı biber salçası",
+      "1 çay bardağı sıvı yağ",
+      "Tuz",
+      "Karabiber",
+      "Kırmızı pul biber",
+      "Maydanoz"
+    ],
+    "instructions": [
+      "Makarnayı haşlayın ve süzün.",
+      "Soğanı ve sarımsakları doğrayın.",
+      "Bir tavada sıvı yağı ısıtın.",
+      "Soğanları ve sarımsakları ekleyip kavurun.",
+      "Kıymayı ekleyip kavurmaya devam edin.",
+      "Domatesi rendeleyin ve ekleyin.",
+      "Salçaları da ekleyip karıştırın.",
+      "Tuz, karabiber ve kırmızı pul biberi ekleyin.",
+      "Haşlanmış makarnayı da ekleyip karıştırın ve birkaç dakika daha pişirin.",
+      "Servis yapmadan önce üzerine ince kıyılmış maydanoz serpin."
+    ],
+    "recipeTime": 35,
+    "servingSuggestion": "Kıymalı makarna, yanında rendelenmiş kaşar peyniri ile servis edilebilir.",
+    "image": "https://picsum.photos/504"
+  },
+  {
+    "id": "p0o9i8u7y6t5r4e3w2q1",
+    "recipeName": "Fırında Patates",
+    "category": "Yan Yemek",
+    "ingredients": [
+      "4 adet orta boy patates",
+      "2 yemek kaşığı zeytinyağı",
+      "1 çay kaşığı tuz",
+      "Yarım çay kaşığı karabiber",
+      "1 çay kaşığı kekik"
+    ],
+    "instructions": [
+      "Patatesleri yıkayın ve kabuklarını soyun.",
+      "Patatesleri uzunlamasına dilimleyin.",
+      "Bir kasede zeytinyağı, tuz, karabiber ve kekiği karıştırın.",
+      "Patates dilimlerini bu karışımla harmanlayın.",
+      "Fırın tepsisine patatesleri tek sıra halinde dizin.",
+      "Önceden ısıtılmış 200 derece fırında, patatesler altın rengini alana kadar pişirin."
+    ],
+    "recipeTime": 40,
+    "servingSuggestion": "Fırında patates, yanında yoğurt veya ketçap ile servis edilebilir.",
+    "image": "https://picsum.photos/505"
+  },
+  {
+    "id": "a1b2c3d4e5f6g7h8i9j0k",
+    "recipeName": "Çikolatalı Kek",
+    "category": "Tatlı",
+    "ingredients": [
+      "3 adet yumurta",
+      "1 su bardağı toz şeker",
+      "Yarım su bardağı süt",
+      "Yarım su bardağı sıvı yağ",
+      "1,5 su bardağı un",
+      "Yarım su bardağı kakao",
+      "1 paket vanilya",
+      "1 paket kabartma tozu"
+    ],
+    "instructions": [
+      "Yumurtaları ve toz şekeri mikserle çırpın.",
+      "Sıvı malzemeleri ekleyip çırpmaya devam edin.",
+      "Unu, kakao, vanilya ve kabartma tozunu ekleyip çırpın.",
+      "Yağlanmış kek kalıbına karışımı dökün.",
+      "Önceden ısıtılmış 170 derece fırında kek pişene kadar yaklaşık 25-30 dakika pişirin.",
+      "Kekin üzeri soğuduktan sonra isteğe göre pudra şekeri serperek süsleyebilirsiniz."
+    ],
+    "recipeTime": 45,
+    "servingSuggestion": "Çikolatalı kek, yanında çilek dilimleri veya vanilya dondurma ile servis edilebilir.",
+    "image": "https://picsum.photos/506"
+  }
+]
