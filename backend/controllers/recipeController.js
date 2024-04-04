@@ -25,5 +25,16 @@ exports.getAllRecipes = (req, res) => {
 };
 
 exports.getRecipe = (req, res) => {
-  res.end("Bir tur alındı");
+  const recipe = data.find((i) => i.id == req.params.id);
+
+  if (!recipe) {
+    res.status(404).json({
+      message: "Geçersiz ID",
+    });
+  } else {
+    res.status(200).json({
+      message: "Aradığınız tarif bulundu",
+      recipe: recipe,
+    });
+  }
 };
