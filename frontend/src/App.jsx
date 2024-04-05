@@ -2,6 +2,7 @@ import MainPage from "./pages/MainPage";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import DetailPage from "./pages/DetailPage";
 import Sidebar from "./components/Sidebar";
+import CreatePage from "./pages/CreatePage";
 const App = () => {
   return (
     <BrowserRouter>
@@ -10,6 +11,7 @@ const App = () => {
         <Routes>
           <Route path="/" element={<MainPage />} />
           <Route path="/tarif/:id" element={<DetailPage />} />
+          <Route path="/ekle" element={<CreatePage />} />
         </Routes>
       </div>
     </BrowserRouter>
